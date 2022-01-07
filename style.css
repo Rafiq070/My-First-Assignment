@@ -2,9 +2,6 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-span{
-   
-}
 
 h1{
     font-size: 50px;  
@@ -64,14 +61,14 @@ h1{
 .goals{
     background-color: #c7cfb5;
     border-radius: 10px;
-
+    
 }
 .goals img{
     width: 55%;
 }
 .doc-link-button{
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 700;
     color: rgb(192, 212, 212);
     padding: 10px 30px;
     background-image: linear-gradient(orange,tomato);
