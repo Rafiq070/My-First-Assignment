@@ -42,29 +42,39 @@ h1{
     text-align: center;
 }
 .mission{
+    width: 30%;
     background-color: #cdf7f7;
     border-radius: 10px;
-   
-
+    padding: 0px 15px 15px 15px; 
 }
 .mission img{
-    width: 80%;
+    width: 60%;
 }
 .vision{
+    width: 30%;
     background-color: #e2c7e6;
     border-radius: 10px;
-
+    padding: 0px 15px 15px 15px;
+    margin-left: 15px;
 }
 .vision img{
-    width: 55%;
+    width: 50%;
 }
 .goals{
+    width: 30%;
     background-color: #c7cfb5;
     border-radius: 10px;
-    
+    padding: 0px 15px 15px 15px;
+    margin-left: 15px;   
 }
 .goals img{
     width: 55%;
+}
+
+.font{
+    font-size: 35px;
+    color: orange;
+    
 }
 .doc-link-button{
     text-decoration: none;
@@ -73,4 +83,21 @@ h1{
     padding: 10px 30px;
     background-image: linear-gradient(orange,tomato);
     border-radius: 5px;
+}
+
+.community{
+        margin-right: 5%;       
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-family: serif;
+    padding: 1px;
+    background-color: black;    
+}
+
+#footer{
+    font-style: italic;
+    color: rgb(168, 50, 6);
 }
