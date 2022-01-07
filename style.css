@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Roboto', sans-serif;
 }
@@ -27,10 +28,10 @@ h1{
 }
 .flexible-container{
     display: flex;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 .half-width{
-    width: 60%;
+    width: 80%;
     padding-left: 140px;
 }
 .half-width img{
@@ -43,9 +44,7 @@ h1{
 .mission{
     background-color: #cdf7f7;
     border-radius: 10px;
-    padding-right: 10px;
-    padding-right: 10px;
-    margin: auto;
+   
 
 }
 .mission img{
