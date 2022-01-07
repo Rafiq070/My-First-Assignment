@@ -2,6 +2,9 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+span{
+   
+}
 
 h1{
     font-size: 50px;  
@@ -28,7 +31,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 .half-width{
     width: 80%;
@@ -65,4 +68,12 @@ h1{
 }
 .goals img{
     width: 55%;
+}
+.doc-link-button{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(192, 212, 212);
+    padding: 10px 30px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
 }
